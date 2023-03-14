@@ -60,9 +60,9 @@ ___
 
 ## Final Product
 
-![Start](images\Image 1.jpg)
-![Middle](images\Image 2.jpg)
-![End](images\Image 3.jpg)
+![Start](https://github.com/CLochstampfor60/Password-Generator/blob/main/images/Image%201.jpg)
+![Middle](https://github.com/CLochstampfor60/Password-Generator/blob/main/images/Image%202.jpg)
+![End](https://github.com/CLochstampfor60/Password-Generator/blob/main/images/Image%203.jpg)
 ___
 
 ## License
