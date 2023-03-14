@@ -1,9 +1,10 @@
-# Challenge #3: xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# Challenge #3: Java Random Password Generator
 
 ## Description:
-* xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-* xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+* Built with the following tools: HTML, CSS, and JavaScript.
+
+* Purpose: to generate a random, password for the user to apply to their daily and increasing security needs. 
 
 ___
 
@@ -40,24 +41,20 @@ ___
 
 ___
 
-## Completed Work:
+## Usage and Completed Work:
 
-* xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+* The user will first open the web application browser, then click 'Generate Password' button. 
 
-* xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-* xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-* xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+* Afterward, the user will proceed through the following prompts and alerts, with the ability to customize some portions of the generated password to meet his/her own preferences and the specific requirements for other third-party websites.
 
 ___
 
 ## Student's Submitted Work:
 
-    URL of the <u>deployed application</u>: * xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+* URL of the <u>deployed application</u>: [Password Generator](https://clochstampfor60.github.io/Password-Generator/)
 
 
-    URL of the application's <u>GitHub Repository</u>: * xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+* URL of the application's <u>GitHub Repository</u>: [Clocky60/Password-Generator](https://github.com/CLochstampfor60/Password-Generator)
 
 ___
 
